@@ -30,14 +30,13 @@ H2 Database
 Depois clique em "Generate", baixe e extraia o projeto.
 
 # ✅ Como testar?
-1. Rode o projeto (botão direito na classe principal → Run)
-A aplicação sobe no endereço:
 
-arduino
-Copiar
-Editar
-http://localhost:8080
+1. Rode o projeto (botão direito na classe principal → Run)
+
+A aplicação sobe no endereço: http://localhost:8080
+
 2. Use o Postman (ou Insomnia) com esses endpoints:
+
 GET /tarefas → lista tudo
 
 POST /tarefas → cria nova tarefa (corpo JSON):

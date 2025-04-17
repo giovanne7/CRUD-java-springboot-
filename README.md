@@ -8,7 +8,7 @@ Banco de dados H2 (é só pra testes e já vem embutido)
 
 Postman ou navegador pra testar os endpoints
 
-📦 Etapa 1: Criar projeto no Spring Boot
+# 📦 Etapa 1: Criar projeto no Spring Boot
 Acesse: https://start.spring.io
 
 Preencha:
@@ -29,9 +29,7 @@ H2 Database
 
 Depois clique em "Generate", baixe e extraia o projeto.
 
------------
-
-✅ Como testar?
+# ✅ Como testar?
 1. Rode o projeto (botão direito na classe principal → Run)
 A aplicação sobe no endereço:
 
